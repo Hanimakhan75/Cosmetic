@@ -110,6 +110,7 @@ SCREENSHOTS
 ![image](https://github.com/user-attachments/assets/1c5b9393-4347-4532-bfa8-542622ef7c51)
 
 2. Tablet(768px):
+   
 ![image](https://github.com/user-attachments/assets/1b5dfe66-1e1c-4597-8b0b-8d0fd282dedf)
 
 ![image](https://github.com/user-attachments/assets/3d0e1127-f21e-41d7-896a-21af3c7f7ead)
