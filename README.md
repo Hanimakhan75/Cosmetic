@@ -96,5 +96,8 @@ cosmetic-website/
 - Total Price of the added Products
 
 
-
+SCREENSHOTS
+1. Mobile(425px):
+   
+![image](https://github.com/user-attachments/assets/0997f3ce-bb27-44e7-a570-12ef3c709185)
 
