@@ -129,6 +129,8 @@
    color: crimson !important;
    width: 14%;
    height: 30vh;
+   /* border: 2px blue solid; */
+
  }
  .img-card-1:hover{
    box-shadow: rgb(181, 104, 104) 0px 5px 15px;
@@ -145,19 +147,24 @@
  @media (max-width: 768px) {
   .cards {
     flex-direction: column; 
+    justify-content: center;
     height: auto; 
     align-items: center;
+    /* border: 2px blue solid; */
   }
 
   .img-card-1 {
     width: 80%; 
     margin-bottom: 20px; 
-    height: auto;
+    height: 35vh;
+    /* border: 2px blue solid; */
   }
 
   .image-card-1 img {
-    width: 100%; 
-    height: auto;
+    width: 80%; 
+    height: 25vh;
+    /* border: 2px red solid; */
+   
   }
 }
 
@@ -197,7 +204,7 @@ footer .bi:hover {
 
 /* CONTACT FORM */
 .contact-pg{
-  height: 90vh;
+  height: 65vh;
 }
 .form-control{
   width: 100%;

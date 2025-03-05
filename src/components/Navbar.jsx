@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import "@fortawesome/fontawesome-free/css/all.min.css";
+// import logo from '../images/cosmetic-logo.png';
 
 
 function Navbar() {
@@ -10,7 +11,9 @@ function Navbar() {
         <>
             <nav className="navbar navbar-expand-lg sticky-top">
                 <div className="container-fluid">
+                    {/* <img src="/images/cosmetic-logo.png" alt="Logo" className="logo" /> */}
                     <img src="/images/cosmetic-logo.png" alt="Logo" className="logo" />
+
                     <button
                         className="navbar-toggler"
                         type="button"
