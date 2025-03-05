@@ -101,3 +101,17 @@ SCREENSHOTS
    
 ![image](https://github.com/user-attachments/assets/0997f3ce-bb27-44e7-a570-12ef3c709185)
 
+![image](https://github.com/user-attachments/assets/7adf9b9e-1be0-4dd4-989f-fc7c6aa9e208)
+
+![image](https://github.com/user-attachments/assets/20a19285-ebb1-4e68-ab53-001018251ca1)
+
+![image](https://github.com/user-attachments/assets/6e964c0d-49b0-45e3-bc33-5937c8ba0825)
+
+![image](https://github.com/user-attachments/assets/1c5b9393-4347-4532-bfa8-542622ef7c51)
+
+2. Tablet(768px):
+![image](https://github.com/user-attachments/assets/1b5dfe66-1e1c-4597-8b0b-8d0fd282dedf)
+
+![image](https://github.com/user-attachments/assets/3d0e1127-f21e-41d7-896a-21af3c7f7ead)
+
+
