@@ -41,11 +41,15 @@
   width: 20%;
   display: flex;
   gap: 30px;
+ 
 }
 .login, .register{
   background-color: crimson;
   color: white;
+  /* border: 2px rgb(4, 0, 255) solid; */
+  
 }
+
 .login:hover, .register:hover{
  
   box-shadow: crimson 0px 1px 4px;

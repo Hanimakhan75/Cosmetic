@@ -11,8 +11,8 @@ function Navbar() {
         <>
             <nav className="navbar navbar-expand-lg sticky-top">
                 <div className="container-fluid">
-                    {/* <img src="/images/cosmetic-logo.png" alt="Logo" className="logo" /> */}
-                    <img src="/images/cosmetic-logo.png" alt="Logo" className="logo" />
+                    {/* <img src="https://static.vecteezy.com/system/resources/previews/021/966/428/non_2x/beauty-logo-for-woman-logo-can-be-used-for-beauty-salon-cosmetic-spa-premium-vector.jpg" alt="Logo" className="logo" /> */}
+                    <img src="https://png.pngtree.com/template/20191108/ourmid/pngtree-beauty-spa-logo-design-template-woman-silhouette-logo-template-image_328588.jpg" alt="Logo" className="logo" />
 
                     <button
                         className="navbar-toggler"
